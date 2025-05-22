@@ -9,10 +9,9 @@ Student/Team Information
 
 Team Name:Team # (Mentor needs to assign)
 
-Team member 1 (Team Leader): Lakshya Kumar
-Team member 2: Chitrance Dogra
-Team member 3: Aman Rana
-Team member 4: Anshuman Riar
+Team member 1 (Team Leader): Anuj Nautiyal
+Team member 2: Priyanjal Gairola
+Team member 3: Anuj rawat
 (Please fill in student IDs, emails, and picture details)
 
 Project Abstract (2 pts)
