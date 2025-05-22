@@ -159,10 +159,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors
 
-- Lakshya Kumar (Team Leader)
-- Chitrance Dogra
-- Aman Rana
-- Anshuman Riar
+- Anuj Nautiyal (Team Leader)
+- Priyanjal Gairola
+- Anuj Rawat
+
 
 ## Acknowledgments
 
