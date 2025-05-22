@@ -98,7 +98,7 @@ Key areas for upcoming focus include completing the web dashboard's interactivit
 Codebase Information (2 pts)
 (Repository link, branch, and information about important commits.)
 
--   **Repository Link**: https://github.com/lakshyakumar90/Resguard--Resource-Management-System
+-   **Repository Link**: https://github.com/Pg-2-dev/Resguard-Resource-Management-System.git
 -   **Branch**: (e.g., `main`, `develop` - Please specify current primary branch)
 -   **Important Commits**: (Team to list a few key commits, e.g., "Implemented core alerting module", "Initial desktop UI integration")
 
